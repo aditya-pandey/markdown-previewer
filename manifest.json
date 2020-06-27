@@ -1,0 +1,15 @@
+{
+  "short_name": "MarkDown Previewer",
+  "name": "MarkDown Previewer",
+  "icons": [
+    {
+      "src": "https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/markdown-64.png",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
